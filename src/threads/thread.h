@@ -118,7 +118,7 @@ void thread_print_stats (void);
 void thread_check_and_block (struct thread *t, void *aux UNUSED);
 /* Compare function.*/
 bool thread_cmp_by_priority (const struct list_elem *a, const struct list_elem *b, void *aux);
-
+bool thread_allcmp_by_priority (const struct list_elem *a, const struct list_elem *b, void *aux);
 
 typedef void thread_func (void *aux);
 tid_t thread_create (const char *name, int priority, thread_func *, void *);
