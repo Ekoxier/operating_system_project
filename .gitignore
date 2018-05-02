@@ -1,5 +1,3 @@
-
 .DS_Store
-*.c~
+src/tests/threads/alarm-priority.c~
 .vscode
-*.o
