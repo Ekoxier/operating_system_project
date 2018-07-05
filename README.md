@@ -5,8 +5,8 @@ CS302, SUSTech
 Project 1: Threads
 
 ## Project member
-* Dahao @daidahao
-* Liziwl @liziwl
+* Dahao [@daidahao](https://github.com/daidahao)
+* Liziwl [@liziwl](https://github.com/liziwl)
 
 ## Project report
 * [Project1 Finial report](./reports/project1.md)
